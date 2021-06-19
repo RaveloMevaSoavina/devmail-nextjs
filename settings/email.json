@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 1,
+        "status" : false,
+        "from" : "Jonathan Boyer grafikart",
+        "emailADR" : "jgrafikart@grafikart.fr",
+        "date" : "12 juin 2021 09:28 ",
+        "subject" : "Quelles technologies pour le site ?",
+        "content" : "Dans cet mail je vous propose de partager avec vous les choix techniques que j'ai pu faire pour Grafikart.fr et les raisons derrière ces choix.Vous savez maintenant tout sur les choix que j'ai pu faire pour le site alors voilà un petit résumé de la stack : - Serveur dédié virtuel avec Debian, - Nginx pour le serveur web, - PHP avec Symfony pour le BackEnd, - PostgreSQL pour la base de données, - Redis pour le cache, les sessions et le système de fil d'attente, - Mercure pour les notifications instantanées, - Messenger pour les tâches asynchrones, - Typesense pour la recherche,- NodeJS pour le bot Discord."
+    },
+    {
+        "id" : 2,
+        "status" : true,
+        "from" : "Honoré Hounouanou",
+        "emailADR" : "h2.tdn@tdn.org",
+        "date" : "29 mai 2021 18:58 ",
+        "subject" : "Petit rappel sur le projet devmail",
+        "content" : "Découvrez des tutoriels de catégories diverses (informatique, physique, télécommunications...) expliqués de manière simple et chirurgicale sur mon site les teachers du net !! "
+    },
+    {
+        "id" : 3,
+        "status" : true,
+        "from" : "Liora Chamla",
+        "emailADR" : "liorChamla@gmail.fr",
+        "date" : "29 mai 2021 13:02 ",
+        "subject" : "Formation sur Symfony 5",
+        "content" : "Hey Meva, je suis là seulement pour te rappeller pour la formation de symfony"
+    },
+    {
+        "id" : 4,
+        "status" : false,
+        "from" : "Travesty Media",
+        "emailADR" : "mediatrav@travestymedia.net",
+        "date" : "17 avril 2021 07:14 ",
+        "subject" : "Recommandation for the last course",
+        "content" : "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP"
+    },
+    {
+        "id" : 5,
+        "status" : true,
+        "from" : "Code Ninja",
+        "emailADR" : "code.ninja@codeninja.com",
+        "date" : "15 mars 2021 22:07 ",
+        "subject" : "Validation code",
+        "content" : "Black-belt your web development skills. Over 1000 free programming tutorials about:- Modern JavaScript (beginner to advanced)- Node.js- React- Vue.js- Firebase- MongoDB- HTML & CSS- PHP & MySQL- Laravel- React Native- Flutter...And many more topics as well :)"
+    }
+]

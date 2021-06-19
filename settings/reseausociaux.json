@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "from" : "GitHub",
+        "emailADR" : "noreply@github.com",
+        "subject" : "A third-party OAuth application has been added to your account",
+        "content" : "Hey RaveloMevaSoavina! A third-party OAuth application (freeCodeCamp.org) with user:email scope was recently authorized to access your account. Visit https://github.com/settings/connections/applications/80a8e8840a91a529831e for more information. To see this and other security events for your account, visit https://github.com/settings/security-log If you run into problems, please contact support by visiting https://github.com/contact Thanks,The GitHub Team",
+        "date" : "16 juin 2021 07:28 ",
+        "status" : false
+    },
+    {
+        "id" : 2,
+        "from" : "Vercel",
+        "emailADR" : "noreply@vercel.com",
+        "subject" : "Re: [RaveloMevaSoavina/trello] [refiner] :: loading min size (41e062f)",
+        "content" : "Successfully deployed to the following URLs: devllo.vercel.app devllo-git-main-ravelomevasoavina.vercel.app devllo-ravelomevasoavina.vercel.app",
+        "date" : "mer. 9 juin 21:34 (il y a 8 jours)",
+        "status" : false
+    },
+    {
+        "id" : 3,
+        "from" : "Heruko",
+        "emailADR" : "noreply@heruko.com",
+        "subject" : "Coming soon: Updates to our Terms of Service",
+        "content" : "Hi MEVA SOAVINA, We’re writing to give you a heads up that our User Agreement will be updated on 14 July 2021. Starting on that date, you will be able to sign in to Coinbase to accept the new User Agreement.",
+        "date" : "mar. 15 juin 02:08 (il y a 2 jours)",
+        "status" : false
+    },
+    {
+        "id" : 4,
+        "from" : "Digital Océan",
+        "emailADR" : "noreply@digitocean.com",
+        "subject" : "Node.js 1-click App",
+        "content" : "Découvrez les emplois pour lesquels vous êtes l’un des meilleurs candidats",
+        "date" : "mer. 16 juin 18:18 (il y a 15 heures)",
+        "status" : true
+    }
+]
